@@ -24,7 +24,7 @@
   <a href="mailto:smashiqulhaquepro@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://your-portfolio.com](https://s-m-ashiqul-haque.netlify.app/)" target="_blank">
+  <a href="[https://your-portfolio.com](https://s-m-ashiqul-haque.netlify.app/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
