@@ -41,20 +41,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqhq&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiqhq&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqhq&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashiqhq&theme=dracula&row=1&column=6" alt="Trophies" />
-</p>
