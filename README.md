@@ -1,16 +1,4 @@
-<h1 align="center">
-  Hi 👋, I'm S M Ashiqul Haque
-</h1>
-
-<p align="center">
-  <strong>Fresh Graduate | Project Team Leader | Teaching, Training & Technology</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashiqhq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+S+M+Ashiqul+Haque;Fresh+Graduate;Project+Team+Leader;+Teaching,+Training+%26+Technology" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashiqhq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 ## 👨‍💼 About Me
 
